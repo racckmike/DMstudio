@@ -643,7 +643,7 @@ function Contacto() {
             </li>
             <li>
               <a
-                href="https://instagram.com/dannimorenostudios"
+                href="https://instagram.com/dmusic_mx"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 hover:text-goldlight transition-colors"
@@ -651,7 +651,7 @@ function Contacto() {
                 <span className="grid place-items-center w-11 h-11 rounded-full bg-terrasoft text-champagne">
                   <InstagramIcon />
                 </span>
-                @dannimorenostudios
+                @dmusic_mx
               </a>
             </li>
           </ul>
@@ -717,13 +717,13 @@ function Footer() {
         <div>
           <h4 className="font-serif text-lg font-semibold text-goldlight mb-4">Síguenos</h4>
           <a
-            href="https://instagram.com/dannimorenostudios"
+            href="https://instagram.com/dmusic_mx"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 font-sans text-sm text-champagne/70 hover:text-goldlight transition-colors"
           >
             <InstagramIcon />
-            @dannimorenostudios
+            @dmusic_mx
           </a>
         </div>
       </div>
